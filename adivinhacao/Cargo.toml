@@ -1,0 +1,9 @@
+[package]
+name = "adivinhacao"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jackson Arceno <jacksonfa.dev@gmail.com>"]
+
+[dependencies]
+
+rand = "0.8.5"
